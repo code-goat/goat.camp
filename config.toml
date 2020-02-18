@@ -115,12 +115,13 @@ googleAnalytics = ""
             description = "Our templates are updated regularly so they don't break."
 
         [[params.services.list]]
-						icon = "fa-paper-plane"
+						#icon = "fa-paper-plane"
+						icon = "fa-carrot"
 						title = "Creativity"
 						description = "You can use this theme as is, or you can make changes!"
 
 				[[params.services.list]]
-            icon = "fa-newspaper"
+            icon = "fa-feather-alt"
             title = "Freedom"
             description = "We update dependencies to keep things fresh."
 
