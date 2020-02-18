@@ -1,8 +1,28 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "goat.camp"
-theme = "hugo-creative-theme"
+#theme = "hugo-creative-theme"
 googleAnalytics = ""
+
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.extensions]
+#       definitionList = true
+#       footnote = true
+#       linkify = true
+#       strikethrough = true
+#       table = true
+#       taskList = true
+#       typographer = true
+#     [markup.goldmark.parser]
+#       attribute = true
+#       autoHeadingID = true
+#       autoHeadingIDType = "github"
+#     [markup.goldmark.renderer]
+#       hardWraps = false
+#       unsafe = false
+#       xHTML = false
+
 
 [params]
 
@@ -49,33 +69,40 @@ googleAnalytics = ""
 	[params.about]
 		headline    = "About Us"
 		header = "About Us"
-		description = """Social Ecological Graziers Guild
+#		beepboop = "test"
+		description = "[about](about)"
 
-Towards the protection, education, and proliferation of native wildland ecosystems; integrated community food and medicine; environmental regeneration praxis, and social ecology
 
-Social Ecology-
-noun
-1 advocates a reconstructive and transformative outlook on social and environmental issues, and promotes a directly democratic, confederal politics. Social Ecology envisions a moral economy that moves beyond scarcity and hierarchy, toward a world that reharmonizes human communities with the natural world, while celebrating diversity, creativity and freedom.
 
-Guild -
-noun
-1 an organization of persons with related interests, goals, etc., especially one formed for mutual aid or protection.
 
-Areas of Social Ecology:
-    • Social theory
-    • Ecological and social activism
-    • Ecological land use and organic agriculture
-    • Ecofeminism and other ecophilosophies
-    • Science and technology studies
-    • Globalization and global justice
-    • Community organizing and development
-    • Food systems and agricultural policy
-    • Ecological alternatives in education
-    • Environmental issues and politics
-    • Environmental justice and community health
-    • Economic relocalization
-    • Media democracy """
-		#buttonText  = "Get started!"
+
+# 		"""Social Ecological Graziers Guild
+#
+# Towards the protection, education, and proliferation of native wildland ecosystems; integrated community food and medicine; environmental regeneration praxis, and social ecology
+#
+# Social Ecology-
+# noun
+# 1 advocates a reconstructive and transformative outlook on social and environmental issues, and promotes a directly democratic, confederal politics. Social Ecology envisions a moral economy that moves beyond scarcity and hierarchy, toward a world that reharmonizes human communities with the natural world, while celebrating diversity, creativity and freedom.
+# [text](//url.to/source)
+# Guild -
+# noun
+# 1 an organization of persons with related interests, goals, etc., especially one formed for mutual aid or protection.
+#
+# Areas of Social Ecology:
+#     • Social theory
+#     • Ecological and social activism
+#     • Ecological land use and organic agriculture
+#     • Ecofeminism and other ecophilosophies
+#     • Science and technology studies
+#     • Globalization and global justice
+#     • Community organizing and development
+#     • Food systems and agricultural policy
+#     • Ecological alternatives in education
+#     • Environmental issues and politics
+#     • Environmental justice and community health
+#     • Economic relocalization
+#     • Media democracy """
+# 		#buttonText  = "Get started!"
 
 	# Service section
 	[params.services]
@@ -88,11 +115,11 @@ Areas of Social Ecology:
             description = "Our templates are updated regularly so they don't break."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Creativity"
-			description = "You can use this theme as is, or you can make changes!"
+						icon = "fa-paper-plane"
+						title = "Creativity"
+						description = "You can use this theme as is, or you can make changes!"
 
-		[[params.services.list]]
+				[[params.services.list]]
             icon = "fa-newspaper"
             title = "Freedom"
             description = "We update dependencies to keep things fresh."
