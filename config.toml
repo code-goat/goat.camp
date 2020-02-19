@@ -70,7 +70,7 @@ googleAnalytics = ""
 		headline    = "About Us"
 		header = "About Us"
 #		beepboop = "test"
-		description = "[about](about)"
+		description = "Test"
 
 
 
