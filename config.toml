@@ -107,22 +107,22 @@ googleAnalytics = ""
 
 		[[params.services.list]]
 				icon = "fa-smile"
-				title = "Communities"
-				description = "Goats are social creatures; they need each other! (Did you know, a goat *herd* is called a *tribe*?). We feel that the more human communities can come together to find new ways of dealing with problems, the more resilient we all become"
+				title = "Relationship"
+				description = "Goats are social creatures; they play together, they teach each other, they protect each other (Did you know, a group of goats is called a 'tribe'?) Like goats do naturally, our human communities need to get together to find new ways of dealing with bioregional problems."
 
 		[[params.services.list]]
 				icon = "fa-water"
 				title = "Chemical-Free"
-				description = "Goats manage vegetation without herbicides, and they reduce the need for petroleum fuels and expensive or dangerous machinery. By removing these problems, goats offer a clean way of plant control without endangering our vital water ways & watersheds"
+				description = "Goats manage vegetation without herbicides, and they reduce the need for petroleum fuels and expensive or dangerous machinery. By removing these problems, goats offer a clean method of plant control without endangering our vital water ways & watersheds"
 
     [[params.services.list]]
 	    	icon = "fa-tree"
-				title = "Native Plant Diversity"
+				title = "Ecological Diversity"
         description = "Our Ecological Grazing services remove encroaching invasive & noxious plants, and promote the proliferation of native plant communities through removing plant competition, spreading native seed, and planting back ecologically relevant species"
 
 		[[params.services.list]]
 				icon = "fa-globe-americas"
-				title = "Locally & Globally"
+				title = "Local & Global"
 				description = "As our environment changes, we need to continually adapt our thinking and practices to new and creative ways to keep us in right relationship with the ecological systems we are part of; from our local neighborhood, to our global community"
 
 		#[[params.services.list]]
@@ -155,16 +155,16 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Learn More!"
+		headline = "Check out our Campaign!"
 
 		[params.aside.button]
-			text = "Link to something"
-			link = "broken link"
+			text = "Contribute!"
+			link = 'shop.goat.camp'
 
 	# Contact section
 	[params.contact]
-		headline = "Contact Us!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		headline = "We Want to Work with You!"
+		description = "Ready to start your next project? Have a question about our services? Feel free to GIVE US A CALL or SEND US AN EMAIL and we will get back to you as soon as possible!"
 		phone = "585.705.8063"
 		email = "segg@tuta.io"
 
