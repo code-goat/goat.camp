@@ -128,25 +128,25 @@ googleAnalytics = ""
 				title = "Locally & Globally"
 				description = "As our environment changes, we need to continually adapt our thinking and practices to new and creative ways to keep us in right relationship with the ecological systems we are part of; from our local neighborhood, to our global community"
 
-		[[params.services.list]]
-        icon = "fa-mortar-pestle"
-        title = "Medicines"
-        description = "Why grow just ornamental plants around your house and yard? Why not grow plants for food and medicine instead with the same amount of effort? Let us show you how!"
+		#[[params.services.list]]
+	  	#	icon = "fa-mortar-pestle"
+      #  title = "Medicines"
+      #  description = "Why grow just ornamental plants around your house and yard? Why not grow plants for food and medicine instead with the same amount of effort? Let us show you how!"
 
-    [[params.services.list]]
-        icon = "fa-hiking"
-        title = "Adventure"
-        description = "Interdependence and stuff"
+  #  [[params.services.list]]
+      #  icon = "fa-hiking"
+      #  title = "Adventure"
+    #    description = "Interdependence and stuff"
 
-		[[params.services.list]]
-		    icon = "fa-hand-holding-heart"
-		    title = "Cooperation"
-		    description = "We feel it is better to *with* each other and the earth, than against it."
+	#	[[params.services.list]]
+		#    icon = "fa-hand-holding-heart"
+		 #   title = "Cooperation"
+		 #   description = "We feel it is better to *with* each other and the earth, than against it."
 
-		[[params.services.list]]
-			  icon = "fa-carrot"
-				title = "Food"
-				description = "YO! We need it! So let's do it!"
+	#	[[params.services.list]]
+		#	  icon = "fa-carrot"
+		#		title = "Food"
+	#			description = "YO! We need it! So let's do it!"
 
 
     # Portfolio modals
