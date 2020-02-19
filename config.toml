@@ -70,7 +70,7 @@ googleAnalytics = ""
 		headline    = "About Us"
 		header = "About Us"
 #		beepboop = "test"
-		description = "Test"
+		description = "Ecological Grazing Services & Education in the Finger Lakes Region of Upstate New York"
 
 
 
@@ -108,27 +108,45 @@ googleAnalytics = ""
 	[params.services]
 		headline = "Our Values"
 
-        [[params.services.list]]
-	    			icon = "fa-campground"
-						#icon = "fa-campground"
-						title = "Diversity"
-            description = "Our templates are updated regularly so they don't break."
+		[[params.services.list]]
+				icon = "fa-smile"
+				title = "Communities"
+				description = "Goats are social creatures; they need each other! (Did you know, a goat *herd* is called a *tribe*?). We feel that the more human communities can come together to find new ways of dealing with problems, the more resilient we all become"
 
-        [[params.services.list]]
-						#icon = "fa-paper-plane"
-						icon = "fa-carrot"
-						title = "Creativity"
-						description = "You can use this theme as is, or you can make changes!"
+		[[params.services.list]]
+				icon = "fa-water"
+				title = "Chemical-Free"
+				description = "Goats manage vegetation without herbicides, and they reduce the need for petroleum fuels and expensive or dangerous machinery. By removing these problems, goats offer a clean way of plant control without endangering our vital water ways & watersheds"
 
-				[[params.services.list]]
-            icon = "fa-feather-alt"
-            title = "Freedom"
-            description = "We update dependencies to keep things fresh."
+    [[params.services.list]]
+	    	icon = "fa-tree"
+				title = "Native Plant Diversity"
+        description = "Our Ecological Grazing services remove encroaching invasive & noxious plants, and promote the proliferation of native plant communities through removing plant competition, spreading native seed, and planting back ecologically relevant species"
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Community"
-            description = "Interdependence and stuff"
+		[[params.services.list]]
+				icon = "fa-globe-americas"
+				title = "Locally & Globally"
+				description = "As our environment changes, we need to continually adapt our thinking and practices to new and creative ways to keep us in right relationship with the ecological systems we are part of; from our local neighborhood, to our global community"
+
+		[[params.services.list]]
+        icon = "fa-mortar-pestle"
+        title = "Medicines"
+        description = "Why grow just ornamental plants around your house and yard? Why not grow plants for food and medicine instead with the same amount of effort? Let us show you how!"
+
+    [[params.services.list]]
+        icon = "fa-hiking"
+        title = "Adventure"
+        description = "Interdependence and stuff"
+
+		[[params.services.list]]
+		    icon = "fa-hand-holding-heart"
+		    title = "Cooperation"
+		    description = "We feel it is better to *with* each other and the earth, than against it."
+
+		[[params.services.list]]
+			  icon = "fa-carrot"
+				title = "Food"
+				description = "YO! We need it! So let's do it!"
 
 
     # Portfolio modals
@@ -153,8 +171,8 @@ googleAnalytics = ""
 		phone = "585.705.8063"
 		email = "segg@tuta.io"
 
-	# Google Maps section
-        #[params.location]
-	 #	latitude  = "34.007850"
-	 #	longitude = "-118.499305"
+	 # Google Maps section
+    #    [params.location]
+	# 	latitude  = "42.52151"
+	 #	longitude = "-77.16221"
 	 #	maps_api_key = ""
