@@ -70,36 +70,16 @@ googleAnalytics = ""
 		headline    = "About Us"
 		header = "About Us"
 #		beepboop = "test"
-		description = "Ecological Grazing Services & Education in the Finger Lakes Region of Upstate New York"
+		description = """We offer Social-Ecological Services, Consulting & Education in the Finger Lakes Region of Upstate New York (Haudenosaunee Anscestral Territory), including:\n
+#### -CHEMICAL-FREE INVASIVE & NOXIOUS WEED REMOVAL-\n
+#### -TARGETTED ECOLOGICAL GRAZING-\n
+#### -INTEGRATED FOOD & ECOLOGY CONSULTING-\n
+#### -URBAN FOOD & NATIVE PLANT LANDSCAPING-\n
+#### -REGIONAL GARDEN & PLANTING CONSULTATION-\n
+#### -CUSTOM YURT CONSTRUCTION-\n
+The Social-Ecological Graziers Guild's mission is to reduce invasive and unwanted vegetation in public spaces and vacant lots, utilizing goats for browsing. Working in and around Pittsburgh, Pennsylvania, Allegheny GoatScape accomplishes this mission by partnering with organizations, land owners, and businesses and allowing the goat herd to eat vegetation on the overgrown properties. Giving goats access to intentional properties removes vegetation in an eco-friendly and efficient manner, setting the stage for additional land management and restoration. We also promote goat husbandry, education and resources access for those interested in raising goats in the Finger Lakes region.
 
-
-# 		"""Social Ecological Graziers Guild
-#
-# Towards the protection, education, and proliferation of native wildland ecosystems; integrated community food and medicine; environmental regeneration praxis, and social ecology
-#
-# Social Ecology-
-# noun
-# 1 advocates a reconstructive and transformative outlook on social and environmental issues, and promotes a directly democratic, confederal politics. Social Ecology envisions a moral economy that moves beyond scarcity and hierarchy, toward a world that reharmonizes human communities with the natural world, while celebrating diversity, creativity and freedom.
-# [text](//url.to/source)
-# Guild -
-# noun
-# 1 an organization of persons with related interests, goals, etc., especially one formed for mutual aid or protection.
-#
-# Areas of Social Ecology:
-#     • Social theory
-#     • Ecological and social activism
-#     • Ecological land use and organic agriculture
-#     • Ecofeminism and other ecophilosophies
-#     • Science and technology studies
-#     • Globalization and global justice
-#     • Community organizing and development
-#     • Food systems and agricultural policy
-#     • Ecological alternatives in education
-#     • Environmental issues and politics
-#     • Environmental justice and community health
-#     • Economic relocalization
-#     • Media democracy """
-# 		#buttonText  = "Get started!"
+By clearing unwanted vegetation with goats rather than using management products like herbicides, communities gain a number of benefits. Goats can traverse terrain that is difficult or impossible for people and machinery. They work long hours, and the only fuel they require is the plants they'll eat. Goats clearing an overgrown neighborhood space can create good community conversation, provide volunteer opportunities to increase community engagement, and pave the way to new opportunities in shared spaces!"""
 
 	# Service section
 	[params.services]
@@ -165,7 +145,7 @@ googleAnalytics = ""
 	[params.contact]
 		headline = "We Want to Work with You!"
 		description = "Ready to start your next project? Have a question about our services? Feel free to GIVE US A CALL or SEND US AN EMAIL and we will get back to you as soon as possible!"
-		phone = "585.705.8063"
+		phone = "585.204.0531"
 		email = "segg@tuta.io"
 
 	 # Google Maps section
